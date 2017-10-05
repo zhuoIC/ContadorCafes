@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <dimen name="llyNumCafes_margin">178dp</dimen>
+    <dimen name="llyBotones_margin">200dp</dimen>
+</resources>
